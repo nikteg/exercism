@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "simple-cipher"
+    },
+    {
+      "path": "roman-numerals"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
